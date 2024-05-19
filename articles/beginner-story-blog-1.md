@@ -59,7 +59,7 @@ Web開発をする前にデータ分析などでPythonなどのプログラミ�
 
 一応、僕が使用したのは、以下の書籍です。
 
-https://amzn.asia/d/dQld833
+https://amzn.asia/d/0xEETAu
 
 - **YouTube**
 
