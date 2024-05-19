@@ -3,7 +3,7 @@ title: "【前編】Webフロントエンド開発を学び始めて3ヶ月弱�
 emoji: ""
 type: "tech"
 topics: [フロントエンド, ブログ, 初心者, Next.js]
-published: false
+published: true
 ---
 Web開発をする前にデータ分析などでPythonなどのプログラミング言語は1年強くらい勉強していたものの、全くWeb開発については触れてこなかった僕が、Web開発を学び始めて3ヶ月弱で0から[ブログ](https://ribrary.uk)を作成した経験を紹介します。
 
