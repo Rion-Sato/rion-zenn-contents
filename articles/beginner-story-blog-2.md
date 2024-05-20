@@ -3,7 +3,7 @@ title: "【後編】Webフロントエンド開発を学び始めて3ヶ月弱�
 emoji: ""
 type: "tech"
 topics: [フロントエンド, ブログ, 初心者, Next.js]
-published: false
+published: true
 ---
 [【前編】Webフロントエンド開発を学び始めて3ヶ月弱で0からブログを作成した話](https://zenn.dev/rion_freelance/articles/beginner-1)の続編です。
 

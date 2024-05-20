@@ -3,7 +3,7 @@ title: "Next.js（App Router）+ TailwindCSS + etc を勉強するのに最強�
 emoji: ""
 type: "tech"
 topics: [Next.js, TailwindCSS]
-published: false
+published: true
 ---
 **モダンなWeb技術（Next.js等）× 包括的な機能実装**を学べる教材・サイトってあんまりないですよね？
 

@@ -3,7 +3,7 @@ title: "リッチテキストにTailwindCSSを当てる時の最適解"
 emoji: ""
 type: "tech"
 topics: [TailwindCSS, リッチテキスト, microCMS]
-published: false
+published: true
 ---
 
 microCMSのリッチテキストエディタを使用したブログ記事にTailwindCSSを当てる際、苦労した点を共有します。

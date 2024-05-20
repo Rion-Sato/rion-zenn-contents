@@ -3,7 +3,7 @@ title: "Next.js（App Router）+ microCMSで埋め込みが初回レスポンス
 emoji: ""
 type: "tech"
 topics: [Next.js, microCMS, JavaScript, React, 初心者]
-published: false
+published: true
 ---
 
 Next.js（App Router）製のブログでmicroCMSの埋め込みリンク（iframeタグ）を使おうとして、沼にハマった時の解決策です。

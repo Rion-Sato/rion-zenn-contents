@@ -3,7 +3,7 @@ title: "GA4 × Next.js（App Router）× microCMS × GitHub Actionsで人気記�
 emoji: ""
 type: "tech"
 topics: [Google Analytics, Next.js, microCMS, GitHub Actions]
-published: false
+published: true
 ---
 このブログに人気記事一覧を表示できるようにしました。
 
