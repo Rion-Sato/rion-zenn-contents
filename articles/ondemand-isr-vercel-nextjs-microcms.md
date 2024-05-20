@@ -3,7 +3,7 @@ title: "【Vercel編】Next.js（App Router）+ microCMS でSSGすると、記�
 emoji: ""
 type: "tech"
 topics: [Next.js, Vercel, microCMS, On-Demand ISR, SSG]
-published: false
+published: true
 ---
 Next.js（App Router）+ microCMS + SSG で[ブログ](https://ribrary.uk)を作った際に出くわした『記事が更新されない！』問題の解決策の備忘録です。
 

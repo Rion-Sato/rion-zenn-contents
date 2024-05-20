@@ -3,7 +3,7 @@ title: "Next.jsにGoogle Analytics 4を導入する"
 emoji: ""
 type: "tech"
 topics: [Next.js, Google Analytics]
-published: false
+published: true
 ---
 [個人ブログ](https://ribrary.uk)のランキング機能を実装するにあたって、Google Analytics 4（以下：GA4）を導入する必要があり、GA4の設定自体で躓きかけたので、手順をメモしておきます。
 

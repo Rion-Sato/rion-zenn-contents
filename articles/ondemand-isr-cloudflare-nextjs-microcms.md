@@ -3,7 +3,7 @@ title: "【Cloudflare編】Next.js（App Router）+ microCMS でSSGすると、�
 emoji: ""
 type: "tech"
 topics: [Next.js, Cloudflare, microCMS, On-Demand ISR, SSG]
-published: false
+published: true
 ---
 前回の[【Vercel編】Next.js（App Router）+ microCMS でSSGすると、記事が更新されない](https://zenn.dev/rion_freelance/articles/ondemand-isr-vercel-nextjs-microcms)の続編です。
 

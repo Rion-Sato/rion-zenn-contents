@@ -3,7 +3,7 @@ title: "Next.js（App Router）におけるSEO対策"
 emoji: ""
 type: "tech"
 topics: [Next.js, SEO]
-published: false
+published: true
 ---
 「『Next.jsはSEOに強い』って言われるけど、具体的にSEO対策ってどうやるの？」って思って調べて実装した備忘録です。
 

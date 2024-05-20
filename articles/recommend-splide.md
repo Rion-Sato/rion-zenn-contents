@@ -3,7 +3,7 @@ title: "【splide】Webサイトで簡単に理想のスライドショーを使
 emoji: ""
 type: "tech"
 topics: [splide, Next.js]
-published: false
+published: true
 ---
 自分の所属するサークルのWebサイトを作るときにスライドショーを使いたいと思って、便利なライブラリを見つけたので、その備忘録として投稿します。
 
